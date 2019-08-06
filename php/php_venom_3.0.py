@@ -40,7 +40,7 @@ def build_func():
 function __destruct(){
 %s
 %s
-return @$%s($this->ccc);}}''' % (func_line,call,fina)
+return @$%s("$this->ccc");}}''' % (func_line,call,fina)
     return func_tmpl
 
     
