@@ -51,6 +51,7 @@
 什么叫免杀方法请参考404师傅的文章  https://xz.aliyun.com/t/5152
 
 星球二维码：
+
 ![image](https://raw.githubusercontent.com/yzddmr6/yzddmr6.github.io/master/images/zsxq-qcode.png)
 
 付款二维码： 
