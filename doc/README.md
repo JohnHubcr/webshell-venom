@@ -1,7 +1,16 @@
-
-
 自己当时写的文章,包含了脚本写作的一些思路跟方法
 
-有的同学没有圈子账号,就特地保存出来让大家看着方便
+1.利用随机异或无限免杀d盾:
+https://yzddmr6.tk/2019/08/11/webshell-venom-1-0/
 
-mhtml格式,下载后用浏览器打开即可
+2.利用随机异或无限免杀d盾 更新至2.0
+https://yzddmr6.tk/2019/08/11/webshell-venom-2-0/
+
+3.无限免杀D盾脚本之aspx
+https://yzddmr6.tk/2019/08/11/webshell-venom-aspx/
+
+4.一键吊打D盾(免杀一句话无限生成)
+https://yzddmr6.tk/2019/08/12/webshell-venom/
+
+5.一键吊打D盾(webshell-venom 3.0 发布)
+https://yzddmr6.tk/2019/08/12/webshell-venom-3-0-1/
