@@ -6,7 +6,7 @@ https://yzddmr6.tk/2019/08/13/webshell-venom-notice/
 
 ### 另一个重要通知：
 
-webshell-venom 4.0 更新日志：
+webshell-venom 4.0(星球内部版) 更新日志：
 
 1. 更新php-venom 至4.0 支持所有php版本 更换payload 免杀更持久 
 
