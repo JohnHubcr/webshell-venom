@@ -1,4 +1,8 @@
 import random
+#author: yzddmr6
+#github: https://github.com/yzddmr6/webshell-venom/
+#blog: https://yzddmr6.tk/
+
 func='unsafe'
 str1 = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
 def random_list():

