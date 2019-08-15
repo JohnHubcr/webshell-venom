@@ -15,8 +15,8 @@ https://yzddmr6.tk/2019/08/12/webshell-venom/
 5.一键吊打D盾(webshell-venom 3.0 发布)
 https://yzddmr6.tk/2019/08/12/webshell-venom-3-0-1/
 
-6. webshell-venom 3.1/3.2 紧急更新日志
+6.webshell-venom 3.1/3.2 紧急更新日志
 https://yzddmr6.tk/2019/08/13/webshell-venom-3-1-3-2/
 
-7. webshell-venom 4.0 发布：这一次，干翻一切
+7.webshell-venom 4.0 发布：这一次，干翻一切
 https://yzddmr6.tk/2019/08/13/webshell-venom-4-0/
