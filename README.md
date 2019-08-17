@@ -1,12 +1,25 @@
 欢迎关注个人博客：https://yzddmr6.tk/
 
-# 2019.8.13 一个重要通知
+蚁剑插件版： https://github.com/yzddmr6/as_webshell_venom
+
+# webshell-venom 的一个重要通知
 
 https://yzddmr6.tk/2019/08/13/webshell-venom-notice/
 
-### 另一个重要通知：
 
-webshell-venom 4.0(星球内部版) 更新日志：
+# 2019.8.17 公开版更新日志
+
+700颗星福利：webshell-venom 3.2 发布 免杀D盾无压力
+
+1. 更新免杀
+
+2. 发布 webshell-venom 3.2 蚁剑插件版
+
+详情：https://yzddmr6.tk/2019/08/16/webshell-venom-3-2/
+
+# 2019.8.13 星球内部版更新日志
+
+webshell-venom 4.0
 
 1. 更新php-venom 至4.0 支持所有php版本 更换payload 免杀更持久 
 

