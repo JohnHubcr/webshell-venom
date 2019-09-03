@@ -90,11 +90,6 @@ webshell-venom 4.0
 
 
 
-蚁剑插件版请移步:
-
-https://github.com/yzddmr6/as_webshell_venom
-
-
 # Warning!
 禁止用于非法用途!
 
