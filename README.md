@@ -2,7 +2,7 @@
 
 蚁剑插件版： https://github.com/yzddmr6/as_webshell_venom
 
-# webshell-venom 的一个重要通知
+# 如何获取 webshell-venom 星球内部版
 
 https://yzddmr6.tk/2019/08/13/webshell-venom-notice/
 
