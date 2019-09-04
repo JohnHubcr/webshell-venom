@@ -6,6 +6,18 @@
 
 https://yzddmr6.tk/2019/08/13/webshell-venom-notice/
 
+# 2019.9.4 公开版更新日志
+
+800颗星福利：webshell-venom 3.3 发布:利用随机异或免杀任意php文件
+
+1. 代码结构优化，更清爽，方便自定义开发。
+
+2. 减小shell体积。
+
+3. 增加利用随机异或免杀任意php文件功能。
+
+详情：https://yzddmr6.tk/2019/09/03/webshell-venom-3-3/
+
 
 # 2019.8.17 公开版更新日志
 
