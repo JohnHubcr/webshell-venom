@@ -20,3 +20,12 @@ https://yzddmr6.tk/2019/08/13/webshell-venom-3-1-3-2/
 
 7.webshell-venom 4.0 发布：这一次，干翻一切
 https://yzddmr6.tk/2019/08/13/webshell-venom-4-0/
+
+8. 星球嘉宾 Krypton 投稿内容：让更多的位运算参与免杀
+https://yzddmr6.tk/2019/08/15/post-1/
+
+9. webshell-venom 3.2 发布 免杀D盾无压力
+https://yzddmr6.tk/2019/08/16/webshell-venom-3-2/
+
+10. webshell-venom 3.3 发布:利用随机异或免杀任意php文件
+https://yzddmr6.tk/2019/09/03/webshell-venom-3-3/
