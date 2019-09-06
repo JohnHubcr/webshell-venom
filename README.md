@@ -1,10 +1,7 @@
-欢迎关注个人博客：https://yzddmr6.tk/
 
 蚁剑插件版： https://github.com/yzddmr6/as_webshell_venom
 
-# 如何获取 webshell-venom 星球内部版
-
-https://yzddmr6.tk/2019/08/13/webshell-venom-notice/
+星球内部版:  https://yzddmr6.tk/2019/08/13/webshell-venom-notice/
 
 # 2019.9.4 公开版更新日志
 
