@@ -6,4 +6,4 @@ JSP的shell不像php那么灵活，不能简单粗暴的写一个脚本无限生
 
 ### 免杀冰蝎JSP SHELL& 免杀JSP命令执行一句话
 
-https://yzddmr6.tk/2019/09/12/jsp-shell-bypass/
+https://yzddmr6.tk/posts/jsp-shell-bypass/

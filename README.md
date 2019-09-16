@@ -1,7 +1,7 @@
 
 蚁剑插件版： https://github.com/yzddmr6/as_webshell_venom
 
-星球内部版:  https://yzddmr6.tk/2019/08/13/webshell-venom-notice/
+星球内部版:  https://yzddmr6.tk/posts/webshell-venom-notice/
 
 # 2019.9.4 公开版更新日志
 
@@ -13,7 +13,7 @@ webshell-venom 3.3 :利用随机异或免杀任意php文件
 
 3. 增加利用随机异或免杀任意php文件功能。
 
-详情：https://yzddmr6.tk/2019/09/03/webshell-venom-3-3/
+详情：https://yzddmr6.tk/posts/webshell-venom-3-3/
 
 
 # 2019.8.17 公开版更新日志
@@ -24,7 +24,7 @@ webshell-venom 3.2
 
 2. 发布 webshell-venom 3.2 蚁剑插件版
 
-详情：https://yzddmr6.tk/2019/08/16/webshell-venom-3-2/
+详情：https://yzddmr6.tk/posts/webshell-venom-3-2/
 
 # 2019.8.13 星球内部版更新日志
 
@@ -37,7 +37,7 @@ webshell-venom 4.0
 3. 所有编写思路及文档已经转移至本人博客，在线查看更方便
 
 
-详情请戳： https://yzddmr6.tk/2019/08/13/webshell-venom-4-0/
+详情请戳： https://yzddmr6.tk/posts/webshell-venom-4-0/
 
 
 # 2019.8.6 更新日志
