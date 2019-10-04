@@ -29,3 +29,6 @@ https://yzddmr6.tk/posts/webshell-venom-3-2/
 
 10. webshell-venom 3.3 发布:利用随机异或免杀任意php文件
 https://yzddmr6.tk/posts/webshell-venom-3-3/
+
+11. [星球文章]webshell免杀从入门到放弃之ASP
+https://yzddmr6.tk/posts/webshell-bypass-asp/
