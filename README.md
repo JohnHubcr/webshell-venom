@@ -3,6 +3,8 @@
 
 星球内部版:  https://yzddmr6.tk/posts/webshell-venom-notice/
 
+免杀文档： https://github.com/yzddmr6/webshell-venom/tree/master/doc
+
 # 2019.9.4 公开版更新日志
 
 webshell-venom 3.3 :利用随机异或免杀任意php文件
