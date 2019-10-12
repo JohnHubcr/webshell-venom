@@ -32,3 +32,6 @@ https://yzddmr6.tk/posts/webshell-venom-3-3/
 
 11. [星球文章]webshell免杀从入门到放弃之ASP
 https://yzddmr6.tk/posts/webshell-bypass-asp/
+
+12. [星球文章]webshell免杀从入门到放弃之PHP
+https://yzddmr6.tk/posts/webshell-bypass-php/
