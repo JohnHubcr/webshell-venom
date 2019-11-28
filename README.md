@@ -1,3 +1,9 @@
+# Warning!
+
+**本项目仅用于企业或者安全厂商内部的安全检测，使用后请尽快删除。**
+
+**严禁用于非法用途!一切后果与本人无关**
+
 
 蚁剑插件版： https://github.com/yzddmr6/as_webshell_venom
 
@@ -95,10 +101,5 @@ webshell-venom 4.0
 
 5.	Header改为404,更为隐蔽
 
-
-
-
-# Warning!
-禁止用于非法用途!
 
 
