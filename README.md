@@ -1,21 +1,38 @@
-欢迎关注个人博客：https://yzddmr6.tk/
+# Warning!
+
+**本项目仅用于企业或者安全厂商内部的安全检测，使用后请尽快删除。**
+
+**严禁用于非法用途!一切后果与本人无关**
+
 
 蚁剑插件版： https://github.com/yzddmr6/as_webshell_venom
 
-# webshell-venom 的一个重要通知
+星球内部版:  https://yzddmr6.tk/posts/webshell-venom-notice/
 
-https://yzddmr6.tk/2019/08/13/webshell-venom-notice/
+免杀文档： https://github.com/yzddmr6/webshell-venom/tree/master/doc
+
+# 2019.9.4 公开版更新日志
+
+webshell-venom 3.3 :利用随机异或免杀任意php文件
+
+1. 代码结构优化，更清爽，方便自定义开发。
+
+2. 减小shell体积。
+
+3. 增加利用随机异或免杀任意php文件功能。
+
+详情：https://yzddmr6.tk/posts/webshell-venom-3-3/
 
 
 # 2019.8.17 公开版更新日志
 
-700颗星福利：webshell-venom 3.2 发布 免杀D盾无压力
+webshell-venom 3.2  
 
 1. 更新免杀
 
 2. 发布 webshell-venom 3.2 蚁剑插件版
 
-详情：https://yzddmr6.tk/2019/08/16/webshell-venom-3-2/
+详情：https://yzddmr6.tk/posts/webshell-venom-3-2/
 
 # 2019.8.13 星球内部版更新日志
 
@@ -28,16 +45,13 @@ webshell-venom 4.0
 3. 所有编写思路及文档已经转移至本人博客，在线查看更方便
 
 
-详情请戳： https://yzddmr6.tk/2019/08/13/webshell-venom-4-0/
+详情请戳： https://yzddmr6.tk/posts/webshell-venom-4-0/
 
 
 # 2019.8.6 更新日志
 
 更新免杀 php-venom 3.1
  
- 另外：
- php-venom 4.0已经完成并通过内测，体积减小并支持7.x所有版本，敬请期待！
-
 
 # 2019.7.16 更新日志
 
@@ -87,15 +101,5 @@ webshell-venom 4.0
 
 5.	Header改为404,更为隐蔽
 
-
-
-
-蚁剑插件版请移步:
-
-https://github.com/yzddmr6/as_webshell_venom
-
-
-# Warning!
-禁止用于非法用途!
 
 
